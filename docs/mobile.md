@@ -217,7 +217,8 @@
 * [Fix My Speakers](https://fixmyspeakers.com/) - Eject Water from Phone Speakers
 * [FlashDim](https://github.com/cyb3rko/flashdim) - Adjust Flashlight Brightness
 * [Fire Toolbox](https://xdaforums.com/t/windows-tool-fire-toolbox-v12-0.3889604/) - Fire Tablet Tools
-
+* [Speaker Cleaner](https://my-speakercleaner.com/) - Eject Water from Phone Speakers
+  
 ***
 
 ## ▷ Optimization
